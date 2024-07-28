@@ -1,0 +1,9 @@
+1. Installation Instructions:
+    +)  Android: Provide a link to download the APK file or instruct users to install the app from the Google Play Store.
+    +)  iOS: Direct users to install the app from the Apple App Store.
+    Prerequisites: Mention that users need a compatible device running Android 6.0 or later or iOS 12.0 or later.
+2. Usage Guide:
+    +)  Home Screen: Describe the main features and navigation options available from the home screen.
+    +)  Category Selection: Explain how users can browse and select categories of meals.
+    +)  Favorites: Guide users on how to add or remove meals from their favorites list.
+    +)  Meal Details: Show how users can view detailed information about a selected meal.
